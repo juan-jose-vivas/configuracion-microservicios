@@ -7,8 +7,6 @@ app:
 server:
   port: 10000
 spring:
-  application:
-    name: servicio-tienda
 eureka:
   client:
     register-with-eureka: false
